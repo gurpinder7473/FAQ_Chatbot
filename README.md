@@ -3,6 +3,7 @@
 A chatbot that answers user questions by matching them to the most similar FAQ using
 Sentence-BERT embeddings and cosine similarity. Built with `sentence-transformers` and
 `streamlit`.
+https://faqchatbot-kqbvmtywz8hhr9ymaef8n7.streamlit.app/
 
 ## How it works
 
